@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=worldness
+comment1.params=
+comment1.target=worldness()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=it
+comment3.target=greenfoot.GreenfootImage\ getCar(int)
+comment4.params=r
+comment4.target=greenfoot.GreenfootImage\ getRoad(int)
+comment5.params=m
+comment5.target=greenfoot.GreenfootImage\ getMap(int)
+numComments=6
